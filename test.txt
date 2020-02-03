@@ -1,6 +1,17 @@
 chu van tinh
 123
 234
+
 test rese
 kjshdt
+
+
+test reset
+
+--app design
+df
+test-app branch. 22 asdf
+
+
+- them dong nay de rebase to develop
 
